@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cruddbdbdeep/KOSA1217/issues"
   },
-  "homepage": "https://github.com/cruddbdbdeep/KOSA1217#readme"
+  "homepage": "https://github.com/cruddbdbdeep/KOSA1217#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
